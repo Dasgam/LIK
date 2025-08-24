@@ -10,553 +10,553 @@
       "name": "Абрикос Горный",
       "price": 580.0,
       "unit": "уп.",
-      "image": "/images/fruits/абрикос_горный.jpg"
+      "image": "images/fruits/абрикос_горный.jpg"
     },
     {
       "name": "Абрикос импорт",
       "price": 280.0,
       "unit": "кг",
-      "image": "/images/fruits/абрикос_импорт.jpg"
+      "image": "images/fruits/абрикос_импорт.jpg"
     },
     {
       "name": "Абрикос Раннее солнышко Узбекистан",
       "price": 800.0,
       "unit": "кг",
-      "image": "/images/fruits/абрикос_раннее_солнышко_узбекистан.jpg"
+      "image": "images/fruits/абрикос_раннее_солнышко_узбекистан.jpg"
     },
     {
       "name": "Абрикос Шаллах Узбекистан",
       "price": 330.0,
       "unit": "кг",
-      "image": "/images/fruits/абрикос_шаллах_узбекистан.jpg"
+      "image": "images/fruits/абрикос_шаллах_узбекистан.jpg"
     },
     {
       "name": "Абрикосы",
       "price": 240.0,
       "unit": "кг",
-      "image": "/images/fruits/абрикосы.jpg"
+      "image": "images/fruits/абрикосы.jpg"
     },
     {
       "name": "Авокадо Биг имп",
       "price": 900.0,
       "unit": "уп.",
-      "image": "/images/fruits/авокадо_биг_имп.jpg"
+      "image": "images/fruits/авокадо_биг_имп.jpg"
     },
     {
       "name": "Авокадо Израиль",
       "price": 670.0,
       "unit": "кг",
-      "image": "/images/fruits/авокадо_израиль.jpg"
+      "image": "images/fruits/авокадо_израиль.jpg"
     },
     {
       "name": "Авокадо Хасс имп",
       "price": 600.0,
       "unit": "кг",
-      "image": "/images/fruits/авокадо_хасс_имп.jpg"
+      "image": "images/fruits/авокадо_хасс_имп.jpg"
     },
     {
       "name": "Ананас Голд имп",
       "price": 280.0,
       "unit": "уп.",
-      "image": "/images/fruits/ананас_голд_имп.jpg"
+      "image": "images/fruits/ананас_голд_имп.jpg"
     },
     {
       "name": "Апельсины десертные имп",
       "price": 220.0,
       "unit": "кг",
-      "image": "/images/fruits/апельсины_десертные_имп.jpg"
+      "image": "images/fruits/апельсины_десертные_имп.jpg"
     },
     {
       "name": "Апельсины Мадмуазель импортные",
       "price": 550.0,
       "unit": "кг",
-      "image": "/images/fruits/апельсины_мадмуазель_импортные.jpg"
+      "image": "images/fruits/апельсины_мадмуазель_импортные.jpg"
     },
     {
       "name": "Арбуз Дагестан",
       "price": 85.0,
       "unit": "уп.",
-      "image": "/images/fruits/арбуз_дагестан.jpg"
+      "image": "images/fruits/арбуз_дагестан.jpg"
     },
     {
       "name": "Арбуз Россия",
       "price": 70.0,
       "unit": "кг",
-      "image": "/images/fruits/арбуз_россия.jpg"
+      "image": "images/fruits/арбуз_россия.jpg"
     },
     {
       "name": "Арбуз Черный принц",
       "price": 90.0,
       "unit": "кг",
-      "image": "/images/fruits/арбуз_черный_принц.jpg"
+      "image": "images/fruits/арбуз_черный_принц.jpg"
     },
     {
       "name": "Арбузы Тайланд",
       "price": 1400.0,
       "unit": "кг",
-      "image": "/images/fruits/арбузы_тайланд.jpg"
+      "image": "images/fruits/арбузы_тайланд.jpg"
     },
     {
       "name": "Виноград Дамский пальчик белый Узбекистан",
       "price": 380.0,
       "unit": "уп.",
-      "image": "/images/fruits/виноград_дамский_пальчик_белый_узбекистан.jpg"
+      "image": "images/fruits/виноград_дамский_пальчик_белый_узбекистан.jpg"
     },
     {
       "name": "Виноград Дамский пальчик черный Узбекистан",
       "price": 400.0,
       "unit": "уп.",
-      "image": "/images/fruits/виноград_дамский_пальчик_черный_узбекистан.jpg"
+      "image": "images/fruits/виноград_дамский_пальчик_черный_узбекистан.jpg"
     },
     {
       "name": "Виноград киш-миш белый имп",
       "price": 530.0,
       "unit": "уп.",
-      "image": "/images/fruits/виноград_киш-миш_белый_имп.jpg"
+      "image": "images/fruits/виноград_киш-миш_белый_имп.jpg"
     },
     {
       "name": "Виноград Киш-миш черный имп",
       "price": 480.0,
       "unit": "уп.",
-      "image": "/images/fruits/виноград_киш-миш_черный_имп.jpg"
+      "image": "images/fruits/виноград_киш-миш_черный_имп.jpg"
     },
     {
       "name": "Виноград Кримсон без косточек импортный",
       "price": 350.0,
       "unit": "уп.",
-      "image": "/images/fruits/виноград_кримсон_без_косточек_импортный.jpg"
+      "image": "images/fruits/виноград_кримсон_без_косточек_импортный.jpg"
     },
     {
       "name": "Виноград Ред Глоб Кординал.",
       "price": 350.0,
       "unit": "уп.",
-      "image": "/images/fruits/виноград_ред_глоб_кординал.jpg"
+      "image": "images/fruits/виноград_ред_глоб_кординал.jpg"
     },
     {
       "name": "Виноград Резомот",
       "price": 350.0,
       "unit": "уп.",
-      "image": "/images/fruits/виноград_резомот.jpg"
+      "image": "images/fruits/виноград_резомот.jpg"
     },
     {
       "name": "Виноград Хусейн",
       "price": 260.0,
       "unit": "уп.",
-      "image": "/images/fruits/виноград_хусейн.jpg"
+      "image": "images/fruits/виноград_хусейн.jpg"
     },
     {
       "name": "Гранаты без косточек имп",
       "price": 712.0,
       "unit": "уп.",
-      "image": "/images/fruits/гранаты_без_косточек_имп.jpg"
+      "image": "images/fruits/гранаты_без_косточек_имп.jpg"
     },
     {
       "name": "Гранаты имп",
       "price": 720.0,
       "unit": "уп.",
-      "image": "/images/fruits/гранаты_имп.jpg"
+      "image": "images/fruits/гранаты_имп.jpg"
     },
     {
       "name": "Груша Аббат имп",
       "price": 470.0,
       "unit": "уп.",
-      "image": "/images/fruits/груша_аббат_имп.jpg"
+      "image": "images/fruits/груша_аббат_имп.jpg"
     },
     {
       "name": "Груша Дуля",
       "price": 930.0,
       "unit": "уп.",
-      "image": "/images/fruits/груша_дуля.jpg"
+      "image": "images/fruits/груша_дуля.jpg"
     },
     {
       "name": "Груша Конференс импортная",
       "price": 500.0,
       "unit": "уп.",
-      "image": "/images/fruits/груша_конференс_импортная.jpg"
+      "image": "images/fruits/груша_конференс_импортная.jpg"
     },
     {
       "name": "Груша Пакхам импортная",
       "price": 280.0,
       "unit": "уп.",
-      "image": "/images/fruits/груша_пакхам_импортная.jpg"
+      "image": "images/fruits/груша_пакхам_импортная.jpg"
     },
     {
       "name": "Груша Пормен",
       "price": 395.0,
       "unit": "уп.",
-      "image": "/images/fruits/груша_пормен.jpg"
+      "image": "images/fruits/груша_пормен.jpg"
     },
     {
       "name": "Груша Форелл импортная",
       "price": 500.0,
       "unit": "уп.",
-      "image": "/images/fruits/груша_форелл_импортная.jpg"
+      "image": "images/fruits/груша_форелл_импортная.jpg"
     },
     {
       "name": "Дыня Колхозница имп",
       "price": 115.0,
       "unit": "кг",
-      "image": "/images/fruits/дыня_колхозница_имп.jpg"
+      "image": "images/fruits/дыня_колхозница_имп.jpg"
     },
     {
       "name": "Дыня Торпедо",
       "price": 105.0,
       "unit": "кг",
-      "image": "/images/fruits/дыня_торпедо.jpg"
+      "image": "images/fruits/дыня_торпедо.jpg"
     },
     {
       "name": "Дыня Эфиопка Россия",
       "price": 145.0,
       "unit": "кг",
-      "image": "/images/fruits/дыня_эфиопка_россия.jpg"
+      "image": "images/fruits/дыня_эфиопка_россия.jpg"
     },
     {
       "name": "Инжир зеленый",
       "price": 650.0,
       "unit": "кг",
-      "image": "/images/fruits/инжир_зеленый.jpg"
+      "image": "images/fruits/инжир_зеленый.jpg"
     },
     {
       "name": "Инжир зелёный Армения",
       "price": 950.0,
       "unit": "кг",
-      "image": "/images/fruits/инжир_зелёный_армения.jpg"
+      "image": "images/fruits/инжир_зелёный_армения.jpg"
     },
     {
       "name": "Киви золотое импортное",
       "price": 1800.0,
       "unit": "кг",
-      "image": "/images/fruits/киви_золотое_импортное.jpg"
+      "image": "images/fruits/киви_золотое_импортное.jpg"
     },
     {
       "name": "Киви импортные",
       "price": 580.0,
       "unit": "кг",
-      "image": "/images/fruits/киви_импортные.jpg"
+      "image": "images/fruits/киви_импортные.jpg"
     },
     {
       "name": "Кумкват имп",
       "price": 1550.0,
       "unit": "кг",
-      "image": "/images/fruits/кумкват_имп.jpg"
+      "image": "images/fruits/кумкват_имп.jpg"
     },
     {
       "name": "Лайм импортный",
       "price": 635.0,
       "unit": "кг",
-      "image": "/images/fruits/лайм_импортный.jpg"
+      "image": "images/fruits/лайм_импортный.jpg"
     },
     {
       "name": "Лимоны импортные",
       "price": 215.0,
       "unit": "кг",
-      "image": "/images/fruits/лимоны_импортные.jpg"
+      "image": "images/fruits/лимоны_импортные.jpg"
     },
     {
       "name": "Лимоны Узбекистан",
       "price": 1300.0,
       "unit": "кг",
-      "image": "/images/fruits/лимоны_узбекистан.jpg"
+      "image": "images/fruits/лимоны_узбекистан.jpg"
     },
     {
       "name": "Манго королевское Перу",
       "price": 2000.0,
       "unit": "уп.",
-      "image": "/images/fruits/манго_королевское_перу.jpg"
+      "image": "images/fruits/манго_королевское_перу.jpg"
     },
     {
       "name": "Мандарины Мадмуазель имп",
       "price": 460.0,
       "unit": "кг",
-      "image": "/images/fruits/мандарины_мадмуазель_имп.jpg"
+      "image": "images/fruits/мандарины_мадмуазель_имп.jpg"
     },
     {
       "name": "Мандарины Турция",
       "price": 320.0,
       "unit": "кг",
-      "image": "/images/fruits/мандарины_турция.jpg"
+      "image": "images/fruits/мандарины_турция.jpg"
     },
     {
       "name": "Мушмула имп",
       "price": 1485.0,
       "unit": "кг",
-      "image": "/images/fruits/мушмула_имп.jpg"
+      "image": "images/fruits/мушмула_имп.jpg"
     },
     {
       "name": "Нектарин Лола",
       "price": 280.0,
       "unit": "кг",
-      "image": "/images/fruits/нектарин_лола.jpg"
+      "image": "images/fruits/нектарин_лола.jpg"
     },
     {
       "name": "Нектарины",
       "price": 600.0,
       "unit": "кг",
-      "image": "/images/fruits/нектарины.jpg"
+      "image": "images/fruits/нектарины.jpg"
     },
     {
       "name": "Нектарины имп",
       "price": 650.0,
       "unit": "кг",
-      "image": "/images/fruits/нектарины_имп.jpg"
+      "image": "images/fruits/нектарины_имп.jpg"
     },
     {
       "name": "Нектарины инжирные имп",
       "price": 6880.0,
       "unit": "кг",
-      "image": "/images/fruits/нектарины_инжирные_имп.jpg"
+      "image": "images/fruits/нектарины_инжирные_имп.jpg"
     },
     {
       "name": "Нектарины Яблочные",
       "price": 373.0,
       "unit": "кг",
-      "image": "/images/fruits/нектарины_яблочные.jpg"
+      "image": "images/fruits/нектарины_яблочные.jpg"
     },
     {
       "name": "Папайя Голд Тайланд",
       "price": 1900.0,
       "unit": "уп.",
-      "image": "/images/fruits/папайя_голд_тайланд.jpg"
+      "image": "images/fruits/папайя_голд_тайланд.jpg"
     },
     {
       "name": "Папайя горная импортная",
       "price": 1050.0,
       "unit": "уп.",
-      "image": "/images/fruits/папайя_горная_импортная.jpg"
+      "image": "images/fruits/папайя_горная_импортная.jpg"
     },
     {
       "name": "Персики",
       "price": 640.0,
       "unit": "кг",
-      "image": "/images/fruits/персики.jpg"
+      "image": "images/fruits/персики.jpg"
     },
     {
       "name": "Персики Армения",
       "price": 600.0,
       "unit": "кг",
-      "image": "/images/fruits/персики_армения.jpg"
+      "image": "images/fruits/персики_армения.jpg"
     },
     {
       "name": "Персики Белые Перу",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/fruits/персики_белые_перу.jpg"
+      "image": "images/fruits/персики_белые_перу.jpg"
     },
     {
       "name": "Персики импортные",
       "price": 380.0,
       "unit": "кг",
-      "image": "/images/fruits/персики_импортные.jpg"
+      "image": "images/fruits/персики_импортные.jpg"
     },
     {
       "name": "Персики инжирные имп",
       "price": 650.0,
       "unit": "кг",
-      "image": "/images/fruits/персики_инжирные_имп.jpg"
+      "image": "images/fruits/персики_инжирные_имп.jpg"
     },
     {
       "name": "Персики Крым",
       "price": 800.0,
       "unit": "кг",
-      "image": "/images/fruits/персики_крым.jpg"
+      "image": "images/fruits/персики_крым.jpg"
     },
     {
       "name": "Питахайя желтая Тайланд",
       "price": 1370.0,
       "unit": "кг",
-      "image": "/images/fruits/питахайя_желтая_тайланд.jpg"
+      "image": "images/fruits/питахайя_желтая_тайланд.jpg"
     },
     {
       "name": "Питахайя красная Таиланд",
       "price": 1370.0,
       "unit": "кг",
-      "image": "/images/fruits/питахайя_красная_таиланд.jpg"
+      "image": "images/fruits/питахайя_красная_таиланд.jpg"
     },
     {
       "name": "Помело Белое имп",
       "price": 280.0,
       "unit": "кг",
-      "image": "/images/fruits/помело_белое_имп.jpg"
+      "image": "images/fruits/помело_белое_имп.jpg"
     },
     {
       "name": "Помело Красное имп",
       "price": 450.0,
       "unit": "кг",
-      "image": "/images/fruits/помело_красное_имп.jpg"
+      "image": "images/fruits/помело_красное_имп.jpg"
     },
     {
       "name": "Свити имп",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/fruits/свити_имп.jpg"
+      "image": "images/fruits/свити_имп.jpg"
     },
     {
       "name": "Слива желтая имп",
       "price": 840.0,
       "unit": "кг",
-      "image": "/images/fruits/слива_желтая_имп.jpg"
+      "image": "images/fruits/слива_желтая_имп.jpg"
     },
     {
       "name": "Слива красная имп",
       "price": 500.0,
       "unit": "кг",
-      "image": "/images/fruits/слива_красная_имп.jpg"
+      "image": "images/fruits/слива_красная_имп.jpg"
     },
     {
       "name": "Слива президент",
       "price": 300.0,
       "unit": "кг",
-      "image": "/images/fruits/слива_президент.jpg"
+      "image": "images/fruits/слива_президент.jpg"
     },
     {
       "name": "Слива Узбекистан",
       "price": 145.0,
       "unit": "кг",
-      "image": "/images/fruits/слива_узбекистан.jpg"
+      "image": "images/fruits/слива_узбекистан.jpg"
     },
     {
       "name": "Слива Утка",
       "price": 285.0,
       "unit": "кг",
-      "image": "/images/fruits/слива_утка.jpg"
+      "image": "images/fruits/слива_утка.jpg"
     },
     {
       "name": "Слива черная импортная",
       "price": 630.0,
       "unit": "кг",
-      "image": "/images/fruits/слива_черная_импортная.jpg"
+      "image": "images/fruits/слива_черная_импортная.jpg"
     },
     {
       "name": "Фейхоа Колумбия",
       "price": 2150.0,
       "unit": "кг",
-      "image": "/images/fruits/фейхоа_колумбия.jpg"
+      "image": "images/fruits/фейхоа_колумбия.jpg"
     },
     {
       "name": "Черешня красная Узбекистан",
       "price": 1800.0,
       "unit": "кг",
-      "image": "/images/fruits/черешня_красная_узбекистан.jpg"
+      "image": "images/fruits/черешня_красная_узбекистан.jpg"
     },
     {
       "name": "Черешня розовая",
       "price": 900.0,
       "unit": "кг",
-      "image": "/images/fruits/черешня_розовая.jpg"
+      "image": "images/fruits/черешня_розовая.jpg"
     },
     {
       "name": "Черешня розовая Узбекистан",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/fruits/черешня_розовая_узбекистан.jpg"
+      "image": "images/fruits/черешня_розовая_узбекистан.jpg"
     },
     {
       "name": "Яблоки Амброзия импортные",
       "price": 550.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_амброзия_импортные.jpg"
+      "image": "images/fruits/яблоки_амброзия_импортные.jpg"
     },
     {
       "name": "Яблоки Белый налив Узбекистан",
       "price": 250.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_белый_налив_узбекистан.jpg"
+      "image": "images/fruits/яблоки_белый_налив_узбекистан.jpg"
     },
     {
       "name": "Яблоки Богатырь Россия",
       "price": 360.0,
       "unit": "уп.",
-      "image": "/images/fruits/яблоки_богатырь_россия.jpg"
+      "image": "images/fruits/яблоки_богатырь_россия.jpg"
     },
     {
       "name": "Яблоки Гала импортные",
       "price": 330.0,
       "unit": "уп.",
-      "image": "/images/fruits/яблоки_гала_импортные.jpg"
+      "image": "images/fruits/яблоки_гала_импортные.jpg"
     },
     {
       "name": "Яблоки Голден импортные",
       "price": 390.0,
       "unit": "уп.",
-      "image": "/images/fruits/яблоки_голден_импортные.jpg"
+      "image": "images/fruits/яблоки_голден_импортные.jpg"
     },
     {
       "name": "Яблоки Гренни импортные",
       "price": 320.0,
       "unit": "уп.",
-      "image": "/images/fruits/яблоки_гренни_импортные.jpg"
+      "image": "images/fruits/яблоки_гренни_импортные.jpg"
     },
     {
       "name": "Яблоки Золотой Ахмед Узбекистан",
       "price": 650.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_золотой_ахмед_узбекистан.jpg"
+      "image": "images/fruits/яблоки_золотой_ахмед_узбекистан.jpg"
     },
     {
       "name": "Яблоки Малинка Россия",
       "price": 460.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_малинка_россия.jpg"
+      "image": "images/fruits/яблоки_малинка_россия.jpg"
     },
     {
       "name": "Яблоки Медовый хруст",
       "price": 295.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_медовый_хруст.jpg"
+      "image": "images/fruits/яблоки_медовый_хруст.jpg"
     },
     {
       "name": "Яблоки Ред Чиф импортные",
       "price": 450.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_ред_чиф_импортные.jpg"
+      "image": "images/fruits/яблоки_ред_чиф_импортные.jpg"
     },
     {
       "name": "Яблоки сезонные Россия",
       "price": 147.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_сезонные_россия.jpg"
+      "image": "images/fruits/яблоки_сезонные_россия.jpg"
     },
     {
       "name": "Яблоки Спартан Россия",
       "price": 320.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_спартан_россия.jpg"
+      "image": "images/fruits/яблоки_спартан_россия.jpg"
     },
     {
       "name": "Яблоки Фуджи имп",
       "price": 310.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_фуджи_имп.jpg"
+      "image": "images/fruits/яблоки_фуджи_имп.jpg"
     },
     {
       "name": "Яблоки Сенан",
       "price": 376.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_сенан.jpg"
+      "image": "images/fruits/яблоки_сенан.jpg"
     },
     {
       "name": "Яблоки Карамелька",
       "price": 377.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоки_карамелька.jpg"
+      "image": "images/fruits/яблоки_карамелька.jpg"
     },
     {
       "name": "Яблоко Чёрный Принц",
       "price": 378.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоко_чёрный_принц.jpg"
+      "image": "images/fruits/яблоко_чёрный_принц.jpg"
     },
     {
       "name": "Яблоки Гала",
       "price": 379.0,
       "unit": "уп.",
-      "image": "/images/fruits/яблоки_гала.jpg"
+      "image": "images/fruits/яблоки_гала.jpg"
     },
     {
       "name": "Яблоко Пирус",
       "price": 380.0,
       "unit": "кг",
-      "image": "/images/fruits/яблоко_пирус.jpg"
+      "image": "images/fruits/яблоко_пирус.jpg"
     }
   ],
   "vegetables": [
@@ -564,553 +564,553 @@
       "name": "Баклажан белый",
       "price": 285.0,
       "unit": "кг",
-      "image": "/images/vegetables/баклажан_белый.jpg"
+      "image": "images/vegetables/баклажан_белый.jpg"
     },
     {
       "name": "Баклажаны грунтовые Россия",
       "price": 110.0,
       "unit": "уп.",
-      "image": "/images/vegetables/баклажаны_грунтовые_россия.jpg"
+      "image": "images/vegetables/баклажаны_грунтовые_россия.jpg"
     },
     {
       "name": "Баклажаны импортные",
       "price": 330.0,
       "unit": "кг",
-      "image": "/images/vegetables/баклажаны_импортные.jpg"
+      "image": "images/vegetables/баклажаны_импортные.jpg"
     },
     {
       "name": "Баклажаны круглые Россия",
       "price": 160.0,
       "unit": "уп.",
-      "image": "/images/vegetables/баклажаны_круглые_россия.jpg"
+      "image": "images/vegetables/баклажаны_круглые_россия.jpg"
     },
     {
       "name": "Горох молодой",
       "price": 380.0,
       "unit": "уп.",
-      "image": "/images/vegetables/горох_молодой.jpg"
+      "image": "images/vegetables/горох_молодой.jpg"
     },
     {
       "name": "Зелень лука с луковицей Россия",
       "price": 500.0,
       "unit": "кг",
-      "image": "/images/vegetables/зелень_лука_с_луковицей_россия.jpg"
+      "image": "images/vegetables/зелень_лука_с_луковицей_россия.jpg"
     },
     {
       "name": "Кабачки имп",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/vegetables/кабачки_имп.jpg"
+      "image": "images/vegetables/кабачки_имп.jpg"
     },
     {
       "name": "Кабачки Россия",
       "price": 105.0,
       "unit": "кг",
-      "image": "/images/vegetables/кабачки_россия.jpg"
+      "image": "images/vegetables/кабачки_россия.jpg"
     },
     {
       "name": "Капуста белокочанная Россия",
       "price": 45.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_белокочанная_россия.jpg"
+      "image": "images/vegetables/капуста_белокочанная_россия.jpg"
     },
     {
       "name": "Капуста брокколи импортная",
       "price": 300.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_брокколи_импортная.jpg"
+      "image": "images/vegetables/капуста_брокколи_импортная.jpg"
     },
     {
       "name": "Капуста брюссельская импортная",
       "price": 800.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_брюссельская_импортная.jpg"
+      "image": "images/vegetables/капуста_брюссельская_импортная.jpg"
     },
     {
       "name": "Капуста китайская импортная",
       "price": 155.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_китайская_импортная.jpg"
+      "image": "images/vegetables/капуста_китайская_импортная.jpg"
     },
     {
       "name": "Капуста кольраби импортная",
       "price": 220.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_кольраби_импортная.jpg"
+      "image": "images/vegetables/капуста_кольраби_импортная.jpg"
     },
     {
       "name": "Капуста краснокочанная Россия",
       "price": 60.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_краснокочанная_россия.jpg"
+      "image": "images/vegetables/капуста_краснокочанная_россия.jpg"
     },
     {
       "name": "Капуста молодая Россия",
       "price": 48.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_молодая_россия.jpg"
+      "image": "images/vegetables/капуста_молодая_россия.jpg"
     },
     {
       "name": "Капуста савойская Россия",
       "price": 160.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_савойская_россия.jpg"
+      "image": "images/vegetables/капуста_савойская_россия.jpg"
     },
     {
       "name": "Капуста цветная белая имп",
       "price": 260.0,
       "unit": "кг",
-      "image": "/images/vegetables/капуста_цветная_белая_имп.jpg"
+      "image": "images/vegetables/капуста_цветная_белая_имп.jpg"
     },
     {
       "name": "Картофель Батат имп",
       "price": 620.0,
       "unit": "кг",
-      "image": "/images/vegetables/картофель_батат_имп.jpg"
+      "image": "images/vegetables/картофель_батат_имп.jpg"
     },
     {
       "name": "Картофель белый Гала Россия",
       "price": 50.0,
       "unit": "уп.",
-      "image": "/images/vegetables/картофель_белый_гала_россия.jpg"
+      "image": "images/vegetables/картофель_белый_гала_россия.jpg"
     },
     {
       "name": "Картофель белый молодой Азербайджан",
       "price": 260.0,
       "unit": "кг",
-      "image": "/images/vegetables/картофель_белый_молодой_азербайджан.jpg"
+      "image": "images/vegetables/картофель_белый_молодой_азербайджан.jpg"
     },
     {
       "name": "Картофель бэби Азербайджан",
       "price": 330.0,
       "unit": "кг",
-      "image": "/images/vegetables/картофель_бэби_азербайджан.jpg"
+      "image": "images/vegetables/картофель_бэби_азербайджан.jpg"
     },
     {
       "name": "Картофель Египет",
       "price": 170.0,
       "unit": "уп.",
-      "image": "/images/vegetables/картофель_египет.jpg"
+      "image": "images/vegetables/картофель_египет.jpg"
     },
     {
       "name": "Картофель красный молодой Азербайджан",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/vegetables/картофель_красный_молодой_азербайджан.jpg"
+      "image": "images/vegetables/картофель_красный_молодой_азербайджан.jpg"
     },
     {
       "name": "Картофель красный Россия",
       "price": 80.0,
       "unit": "кг",
-      "image": "/images/vegetables/картофель_красный_россия.jpg"
+      "image": "images/vegetables/картофель_красный_россия.jpg"
     },
     {
       "name": "Картофель молодой Азербайджан",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/vegetables/картофель_молодой_азербайджан.jpg"
+      "image": "images/vegetables/картофель_молодой_азербайджан.jpg"
     },
     {
       "name": "Лук белый Россия",
       "price": 110.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_белый_россия.jpg"
+      "image": "images/vegetables/лук_белый_россия.jpg"
     },
     {
       "name": "Лук белый ялтинский Россия",
       "price": 280.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_белый_ялтинский_россия.jpg"
+      "image": "images/vegetables/лук_белый_ялтинский_россия.jpg"
     },
     {
       "name": "Лук зеленый Азербайджан",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_зеленый_азербайджан.jpg"
+      "image": "images/vegetables/лук_зеленый_азербайджан.jpg"
     },
     {
       "name": "Лук зеленый Россия",
       "price": 230.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_зеленый_россия.jpg"
+      "image": "images/vegetables/лук_зеленый_россия.jpg"
     },
     {
       "name": "Лук красный ялтинский Россия",
       "price": 280.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_красный_ялтинский_россия.jpg"
+      "image": "images/vegetables/лук_красный_ялтинский_россия.jpg"
     },
     {
       "name": "Лук молодой с красной луковицей Россия",
       "price": 500.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_молодой_с_красной_луковицей_россия.jpg"
+      "image": "images/vegetables/лук_молодой_с_красной_луковицей_россия.jpg"
     },
     {
       "name": "Лук порей импортный",
       "price": 640.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_порей_импортный.jpg"
+      "image": "images/vegetables/лук_порей_импортный.jpg"
     },
     {
       "name": "Лук репчатый красный Россия",
       "price": 80.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_репчатый_красный_россия.jpg"
+      "image": "images/vegetables/лук_репчатый_красный_россия.jpg"
     },
     {
       "name": "Лук репчатый Россия",
       "price": 50.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_репчатый_россия.jpg"
+      "image": "images/vegetables/лук_репчатый_россия.jpg"
     },
     {
       "name": "Лук шалот импортный",
       "price": 650.0,
       "unit": "кг",
-      "image": "/images/vegetables/лук_шалот_импортный.jpg"
+      "image": "images/vegetables/лук_шалот_импортный.jpg"
     },
     {
       "name": "Морковь мытая импортная",
       "price": 65.0,
       "unit": "кг",
-      "image": "/images/vegetables/морковь_мытая_импортная.jpg"
+      "image": "images/vegetables/морковь_мытая_импортная.jpg"
     },
     {
       "name": "Морковь с ботвой Россия",
       "price": 480.0,
       "unit": "кг",
-      "image": "/images/vegetables/морковь_с_ботвой_россия.jpg"
+      "image": "images/vegetables/морковь_с_ботвой_россия.jpg"
     },
     {
       "name": "Огурцы",
       "price": 210.0,
       "unit": "кг",
-      "image": "/images/vegetables/огурцы.jpg"
+      "image": "images/vegetables/огурцы.jpg"
     },
     {
       "name": "Огурцы Белый принц Азербайджан",
       "price": 910.0,
       "unit": "уп.",
-      "image": "/images/vegetables/огурцы_белый_принц_азербайджан.jpg"
+      "image": "images/vegetables/огурцы_белый_принц_азербайджан.jpg"
     },
     {
       "name": "Огурцы корнишоны Россия",
       "price": 440.0,
       "unit": "уп.",
-      "image": "/images/vegetables/огурцы_корнишоны_россия.jpg"
+      "image": "images/vegetables/огурцы_корнишоны_россия.jpg"
     },
     {
       "name": "Огурцы короткоплодные Россия",
       "price": 300.0,
       "unit": "уп.",
-      "image": "/images/vegetables/огурцы_короткоплодные_россия.jpg"
+      "image": "images/vegetables/огурцы_короткоплодные_россия.jpg"
     },
     {
       "name": "Огурцы Луховицкие Россия",
       "price": 170.0,
       "unit": "уп.",
-      "image": "/images/vegetables/огурцы_луховицкие_россия.jpg"
+      "image": "images/vegetables/огурцы_луховицкие_россия.jpg"
     },
     {
       "name": "Огурцы ТСХ Россия",
       "price": 370.0,
       "unit": "уп.",
-      "image": "/images/vegetables/огурцы_тсх_россия.jpg"
+      "image": "images/vegetables/огурцы_тсх_россия.jpg"
     },
     {
       "name": "Перец Долма Узбекистан",
       "price": 180.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_долма_узбекистан.jpg"
+      "image": "images/vegetables/перец_долма_узбекистан.jpg"
     },
     {
       "name": "Перец зеленый острый Армения",
       "price": 1100.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_зеленый_острый_армения.jpg"
+      "image": "images/vegetables/перец_зеленый_острый_армения.jpg"
     },
     {
       "name": "Перец Ласточка желтая",
       "price": 120.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_ласточка_желтая.jpg"
+      "image": "images/vegetables/перец_ласточка_желтая.jpg"
     },
     {
       "name": "Перец Ласточка Россия",
       "price": 110.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_ласточка_россия.jpg"
+      "image": "images/vegetables/перец_ласточка_россия.jpg"
     },
     {
       "name": "Перец острый Педро имп",
       "price": 500.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_острый_педро_имп.jpg"
+      "image": "images/vegetables/перец_острый_педро_имп.jpg"
     },
     {
       "name": "Перец Рамиро имп",
       "price": 470.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_рамиро_имп.jpg"
+      "image": "images/vegetables/перец_рамиро_имп.jpg"
     },
     {
       "name": "Перец сезонный",
       "price": 160.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_сезонный.jpg"
+      "image": "images/vegetables/перец_сезонный.jpg"
     },
     {
       "name": "Перец сладкий желтый импортный",
       "price": 380.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_сладкий_желтый_импортный.jpg"
+      "image": "images/vegetables/перец_сладкий_желтый_импортный.jpg"
     },
     {
       "name": "Перец сладкий зеленый импортный",
       "price": 270.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_сладкий_зеленый_импортный.jpg"
+      "image": "images/vegetables/перец_сладкий_зеленый_импортный.jpg"
     },
     {
       "name": "Перец сладкий красный импорт",
       "price": 230.0,
       "unit": "кг",
-      "image": "/images/vegetables/перец_сладкий_красный_импорт.jpg"
+      "image": "images/vegetables/перец_сладкий_красный_импорт.jpg"
     },
     {
       "name": "Помидоры Бархатный мед Азербайджан",
       "price": 380.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_бархатный_мед_азербайджан.jpg"
+      "image": "images/vegetables/помидоры_бархатный_мед_азербайджан.jpg"
     },
     {
       "name": "Помидоры Визирь Узбекистан",
       "price": 650.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_визирь_узбекистан.jpg"
+      "image": "images/vegetables/помидоры_визирь_узбекистан.jpg"
     },
     {
       "name": "Помидоры Гулькур Узбекистан",
       "price": 680.0,
       "unit": "уп.",
-      "image": "/images/vegetables/помидоры_гулькур_узбекистан.jpg"
+      "image": "images/vegetables/помидоры_гулькур_узбекистан.jpg"
     },
     {
       "name": "Помидоры домашние Узбекистан",
       "price": 500.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_домашние_узбекистан.jpg"
+      "image": "images/vegetables/помидоры_домашние_узбекистан.jpg"
     },
     {
       "name": "Помидоры желтые Леди Россия",
       "price": 360.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_желтые_леди_россия.jpg"
+      "image": "images/vegetables/помидоры_желтые_леди_россия.jpg"
     },
     {
       "name": "Помидоры желтые Россия",
       "price": 270.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_желтые_россия.jpg"
+      "image": "images/vegetables/помидоры_желтые_россия.jpg"
     },
     {
       "name": "Помидоры Зебра",
       "price": 380.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_зебра.jpg"
+      "image": "images/vegetables/помидоры_зебра.jpg"
     },
     {
       "name": "Помидоры Мадрид",
       "price": 280.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_мадрид.jpg"
+      "image": "images/vegetables/помидоры_мадрид.jpg"
     },
     {
       "name": "Помидоры Малиновый Рай",
       "price": 390.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_малиновый_рай.jpg"
+      "image": "images/vegetables/помидоры_малиновый_рай.jpg"
     },
     {
       "name": "Помидоры Махитос",
       "price": 160.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_махитос.jpg"
+      "image": "images/vegetables/помидоры_махитос.jpg"
     },
     {
       "name": "Помидоры медовые Узбекистан",
       "price": 820.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_медовые_узбекистан.jpg"
+      "image": "images/vegetables/помидоры_медовые_узбекистан.jpg"
     },
     {
       "name": "Помидоры Пламя на ветке",
       "price": 390.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_пламя_на_ветке.jpg"
+      "image": "images/vegetables/помидоры_пламя_на_ветке.jpg"
     },
     {
       "name": "Помидоры Пуля Россия",
       "price": 260.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_пуля_россия.jpg"
+      "image": "images/vegetables/помидоры_пуля_россия.jpg"
     },
     {
       "name": "Помидоры сезонные",
       "price": 170.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_сезонные.jpg"
+      "image": "images/vegetables/помидоры_сезонные.jpg"
     },
     {
       "name": "Помидоры Сливка желтая Россия",
       "price": 320.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_сливка_желтая_россия.jpg"
+      "image": "images/vegetables/помидоры_сливка_желтая_россия.jpg"
     },
     {
       "name": "Помидоры Сливка Шоколадная на ветке",
       "price": 465.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_сливка_шоколадная_на_ветке.jpg"
+      "image": "images/vegetables/помидоры_сливка_шоколадная_на_ветке.jpg"
     },
     {
       "name": "Помидоры Чёрный Принц  россия",
       "price": 320.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_чёрный_принц__россия.jpg"
+      "image": "images/vegetables/помидоры_чёрный_принц__россия.jpg"
     },
     {
       "name": "Помидоры Черный принц имп",
       "price": 380.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_черный_принц_имп.jpg"
+      "image": "images/vegetables/помидоры_черный_принц_имп.jpg"
     },
     {
       "name": "Помидоры черри красные сладкие 450г Россия",
       "price": 270.0,
       "unit": "уп.",
-      "image": "/images/vegetables/помидоры_черри_красные_сладкие_450г_россия.jpg"
+      "image": "images/vegetables/помидоры_черри_красные_сладкие_450г_россия.jpg"
     },
     {
       "name": "Помидоры черри Пуля жёлтый",
       "price": 440.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_черри_пуля_жёлтый.jpg"
+      "image": "images/vegetables/помидоры_черри_пуля_жёлтый.jpg"
     },
     {
       "name": "Помидоры Ясный Самоцвет",
       "price": 420.0,
       "unit": "кг",
-      "image": "/images/vegetables/помидоры_ясный_самоцвет.jpg"
+      "image": "images/vegetables/помидоры_ясный_самоцвет.jpg"
     },
     {
       "name": "Редис дайкон Израиль",
       "price": 140.0,
       "unit": "кг",
-      "image": "/images/vegetables/редис_дайкон_израиль.jpg"
+      "image": "images/vegetables/редис_дайкон_израиль.jpg"
     },
     {
       "name": "Редис красный Россия",
       "price": 200.0,
       "unit": "кг",
-      "image": "/images/vegetables/редис_красный_россия.jpg"
+      "image": "images/vegetables/редис_красный_россия.jpg"
     },
     {
       "name": "Редька зеленая Россия",
       "price": 70.0,
       "unit": "кг",
-      "image": "/images/vegetables/редька_зеленая_россия.jpg"
+      "image": "images/vegetables/редька_зеленая_россия.jpg"
     },
     {
       "name": "Редька черная Россия",
       "price": 75.0,
       "unit": "кг",
-      "image": "/images/vegetables/редька_черная_россия.jpg"
+      "image": "images/vegetables/редька_черная_россия.jpg"
     },
     {
       "name": "Репа желтая Россия",
       "price": 75.0,
       "unit": "кг",
-      "image": "/images/vegetables/репа_желтая_россия.jpg"
+      "image": "images/vegetables/репа_желтая_россия.jpg"
     },
     {
       "name": "Салат Шпинат мини 125г имп",
       "price": 340.0,
       "unit": "уп.",
-      "image": "/images/vegetables/салат_шпинат_мини_125г_имп.jpg"
+      "image": "images/vegetables/салат_шпинат_мини_125г_имп.jpg"
     },
     {
       "name": "Свекла Россия",
       "price": 50.0,
       "unit": "кг",
-      "image": "/images/vegetables/свекла_россия.jpg"
+      "image": "images/vegetables/свекла_россия.jpg"
     },
     {
       "name": "Свекла с ботвой Россия",
       "price": 475.0,
       "unit": "кг",
-      "image": "/images/vegetables/свекла_с_ботвой_россия.jpg"
+      "image": "images/vegetables/свекла_с_ботвой_россия.jpg"
     },
     {
       "name": "Сельдерей стебли импортный",
       "price": 150.0,
       "unit": "кг",
-      "image": "/images/vegetables/сельдерей_стебли_импортный.jpg"
+      "image": "images/vegetables/сельдерей_стебли_импортный.jpg"
     },
     {
       "name": "Спаржа белая имп",
       "price": 4100.0,
       "unit": "кг",
-      "image": "/images/vegetables/спаржа_белая_имп.jpg"
+      "image": "images/vegetables/спаржа_белая_имп.jpg"
     },
     {
       "name": "Спаржа зеленая импортная",
       "price": 3200.0,
       "unit": "кг",
-      "image": "/images/vegetables/спаржа_зеленая_импортная.jpg"
+      "image": "images/vegetables/спаржа_зеленая_импортная.jpg"
     },
     {
       "name": "Тыква батернат Россия",
       "price": 90.0,
       "unit": "кг",
-      "image": "/images/vegetables/тыква_батернат_россия.jpg"
+      "image": "images/vegetables/тыква_батернат_россия.jpg"
     },
     {
       "name": "Тыква круглая Россия",
       "price": 100.0,
       "unit": "уп.",
-      "image": "/images/vegetables/тыква_круглая_россия.jpg"
+      "image": "images/vegetables/тыква_круглая_россия.jpg"
     },
     {
       "name": "Фасоль зеленая Кения",
       "price": 2900.0,
       "unit": "кг",
-      "image": "/images/vegetables/фасоль_зеленая_кения.jpg"
+      "image": "images/vegetables/фасоль_зеленая_кения.jpg"
     },
     {
       "name": "Цукини зеленые импортные",
       "price": 140.0,
       "unit": "кг",
-      "image": "/images/vegetables/цукини_зеленые_импортные.jpg"
+      "image": "images/vegetables/цукини_зеленые_импортные.jpg"
     },
     {
       "name": "Чеснок импортный",
       "price": 320.0,
       "unit": "кг",
-      "image": "/images/vegetables/чеснок_импортный.jpg"
+      "image": "images/vegetables/чеснок_импортный.jpg"
     },
     {
       "name": "Чеснок молодой новый урожай имп",
       "price": 295.0,
       "unit": "кг",
-      "image": "/images/vegetables/чеснок_молодой_новый_урожай_имп.jpg"
+      "image": "images/vegetables/чеснок_молодой_новый_урожай_имп.jpg"
     },
     {
       "name": "Шпинат Россия",
       "price": 1760.0,
       "unit": "кг",
-      "image": "/images/vegetables/шпинат_россия.jpg"
+      "image": "images/vegetables/шпинат_россия.jpg"
     }
   ],
   "berries": [
@@ -1118,49 +1118,49 @@
       "name": "Голубика крупная 125г имп",
       "price": 220.0,
       "unit": "уп.",
-      "image": "/images/berries/голубика_крупная_125г_имп.jpg"
+      "image": "images/berries/голубика_крупная_125г_имп.jpg"
     },
     {
       "name": "Голубика Перу",
       "price": 1700.0,
       "unit": "уп.",
-      "image": "/images/berries/голубика_перу.jpg"
+      "image": "images/berries/голубика_перу.jpg"
     },
     {
       "name": "Ежевика 125г имп",
       "price": 650.0,
       "unit": "уп.",
-      "image": "/images/berries/ежевика_125г_имп.jpg"
+      "image": "images/berries/ежевика_125г_имп.jpg"
     },
     {
       "name": "Клубника Россия",
       "price": 850.0,
       "unit": "кг",
-      "image": "/images/berries/клубника_россия.jpg"
+      "image": "images/berries/клубника_россия.jpg"
     },
     {
       "name": "Крыжовник",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/berries/крыжовник.jpg"
+      "image": "images/berries/крыжовник.jpg"
     },
     {
       "name": "Крыжовник Россия",
       "price": 600.0,
       "unit": "кг",
-      "image": "/images/berries/крыжовник_россия.jpg"
+      "image": "images/berries/крыжовник_россия.jpg"
     },
     {
       "name": "Малина 125г имп",
       "price": 630.0,
       "unit": "уп.",
-      "image": "/images/berries/малина_125г_имп.jpg"
+      "image": "images/berries/малина_125г_имп.jpg"
     },
     {
       "name": "Малина садовая Крым",
       "price": 5000.0,
       "unit": "кг",
-      "image": "/images/berries/малина_садовая_крым.jpg"
+      "image": "images/berries/малина_садовая_крым.jpg"
     }
   ],
   "greens": [
@@ -1168,103 +1168,103 @@
       "name": "Базилик зеленый Израиль",
       "price": 1350.0,
       "unit": "кг",
-      "image": "/images/greens/базилик_зеленый_израиль.jpg"
+      "image": "images/greens/базилик_зеленый_израиль.jpg"
     },
     {
       "name": "Базилик красный Израиль",
       "price": 1390.0,
       "unit": "кг",
-      "image": "/images/greens/базилик_красный_израиль.jpg"
+      "image": "images/greens/базилик_красный_израиль.jpg"
     },
     {
       "name": "Кинза Россия",
       "price": 1200.0,
       "unit": "кг",
-      "image": "/images/greens/кинза_россия.jpg"
+      "image": "images/greens/кинза_россия.jpg"
     },
     {
       "name": "Мята Россия",
       "price": 1000.0,
       "unit": "кг",
-      "image": "/images/greens/мята_россия.jpg"
+      "image": "images/greens/мята_россия.jpg"
     },
     {
       "name": "Петрушка Россия",
       "price": 680.0,
       "unit": "кг",
-      "image": "/images/greens/петрушка_россия.jpg"
+      "image": "images/greens/петрушка_россия.jpg"
     },
     {
       "name": "Розмарин Израиль",
       "price": 1350.0,
       "unit": "кг",
-      "image": "/images/greens/розмарин_израиль.jpg"
+      "image": "images/greens/розмарин_израиль.jpg"
     },
     {
       "name": "Салат Айсберг импортный",
       "price": 280.0,
       "unit": "уп.",
-      "image": "/images/greens/салат_айсберг_импортный.jpg"
+      "image": "images/greens/салат_айсберг_импортный.jpg"
     },
     {
       "name": "Салат листовой Россия",
       "price": 80.0,
       "unit": "кг",
-      "image": "/images/greens/салат_листовой_россия.jpg"
+      "image": "images/greens/салат_листовой_россия.jpg"
     },
     {
       "name": "Салат микс 125гр Россия",
       "price": 250.0,
       "unit": "уп.",
-      "image": "/images/greens/салат_микс_125гр_россия.jpg"
+      "image": "images/greens/салат_микс_125гр_россия.jpg"
     },
     {
       "name": "Салат Пакчой 250г имп",
       "price": 600.0,
       "unit": "уп.",
-      "image": "/images/greens/салат_пакчой_250г_имп.jpg"
+      "image": "images/greens/салат_пакчой_250г_имп.jpg"
     },
     {
       "name": "Салат Романо импортный",
       "price": 320.0,
       "unit": "кг",
-      "image": "/images/greens/салат_романо_импортный.jpg"
+      "image": "images/greens/салат_романо_импортный.jpg"
     },
     {
       "name": "Салат Руккола 125 г имп",
       "price": 230.0,
       "unit": "уп.",
-      "image": "/images/greens/салат_руккола_125_г_имп.jpg"
+      "image": "images/greens/салат_руккола_125_г_имп.jpg"
     },
     {
       "name": "Салат Фризе имп",
       "price": 1900.0,
       "unit": "кг",
-      "image": "/images/greens/салат_фризе_имп.jpg"
+      "image": "images/greens/салат_фризе_имп.jpg"
     },
     {
       "name": "Тимьян Израиль",
       "price": 1850.0,
       "unit": "кг",
-      "image": "/images/greens/тимьян_израиль.jpg"
+      "image": "images/greens/тимьян_израиль.jpg"
     },
     {
       "name": "Укроп Россия",
       "price": 750.0,
       "unit": "кг",
-      "image": "/images/greens/укроп_россия.jpg"
+      "image": "images/greens/укроп_россия.jpg"
     },
     {
       "name": "Щавель Россия",
       "price": 350.0,
       "unit": "кг",
-      "image": "/images/greens/щавель_россия.jpg"
+      "image": "images/greens/щавель_россия.jpg"
     },
     {
       "name": "Эстрагон (тархун) Израиль",
       "price": 2000.0,
       "unit": "уп.",
-      "image": "/images/greens/эстрагон_(тархун)_израиль.jpg"
+      "image": "images/greens/эстрагон_(тархун)_израиль.jpg"
     }
   ],
   "nuts": [
@@ -1272,7 +1272,7 @@
       "name": "Фундук молодой",
       "price": 580.0,
       "unit": "кг",
-      "image": "/images/nuts/фундук_молодой.jpg"
+      "image": "images/nuts/фундук_молодой.jpg"
     }
   ],
   "other": [
@@ -1280,103 +1280,103 @@
       "name": "Айва Узбекистан",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/other/айва_узбекистан.jpg"
+      "image": "images/other/айва_узбекистан.jpg"
     },
     {
       "name": "Алыча имп",
       "price": 700.0,
       "unit": "кг",
-      "image": "/images/other/алыча_имп.jpg"
+      "image": "images/other/алыча_имп.jpg"
     },
     {
       "name": "Бананы Кавендыш Эквадор",
       "price": 200.0,
       "unit": "кг",
-      "image": "/images/other/бананы_кавендыш_эквадор.jpg"
+      "image": "images/other/бананы_кавендыш_эквадор.jpg"
     },
     {
       "name": "Бананы мини Эквадор",
       "price": 520.0,
       "unit": "кг",
-      "image": "/images/other/бананы_мини_эквадор.jpg"
+      "image": "images/other/бананы_мини_эквадор.jpg"
     },
     {
       "name": "Вишня имп",
       "price": 630.0,
       "unit": "кг",
-      "image": "/images/other/вишня_имп.jpg"
+      "image": "images/other/вишня_имп.jpg"
     },
     {
       "name": "Горошек стручковый 250г импортный",
       "price": 650.0,
       "unit": "уп.",
-      "image": "/images/other/горошек_стручковый_250г_импортный.jpg"
+      "image": "images/other/горошек_стручковый_250г_импортный.jpg"
     },
     {
       "name": "Грейпфруты красные импортные",
       "price": 200.0,
       "unit": "уп.",
-      "image": "/images/other/грейпфруты_красные_импортные.jpg"
+      "image": "images/other/грейпфруты_красные_импортные.jpg"
     },
     {
       "name": "Грибы Вешенка Россия",
       "price": 720.0,
       "unit": "уп.",
-      "image": "/images/other/грибы_вешенка_россия.jpg"
+      "image": "images/other/грибы_вешенка_россия.jpg"
     },
     {
       "name": "Грибы лисички Россия",
       "price": 670.0,
       "unit": "уп.",
-      "image": "/images/other/грибы_лисички_россия.jpg"
+      "image": "images/other/грибы_лисички_россия.jpg"
     },
     {
       "name": "Грибы шампиньоны Россия",
       "price": 310.0,
       "unit": "уп.",
-      "image": "/images/other/грибы_шампиньоны_россия.jpg"
+      "image": "images/other/грибы_шампиньоны_россия.jpg"
     },
     {
       "name": "Имбирь импортный",
       "price": 520.0,
       "unit": "кг",
-      "image": "/images/other/имбирь_импортный.jpg"
+      "image": "images/other/имбирь_импортный.jpg"
     },
     {
       "name": "Кизил",
       "price": 320.0,
       "unit": "кг",
-      "image": "/images/other/кизил.jpg"
+      "image": "images/other/кизил.jpg"
     },
     {
       "name": "Корень сельдерея мытый импортный",
       "price": 445.0,
       "unit": "кг",
-      "image": "/images/other/корень_сельдерея_мытый_импортный.jpg"
+      "image": "images/other/корень_сельдерея_мытый_импортный.jpg"
     },
     {
       "name": "Кукуруза мини 125гр Россия",
       "price": 280.0,
       "unit": "уп.",
-      "image": "/images/other/кукуруза_мини_125гр_россия.jpg"
+      "image": "images/other/кукуруза_мини_125гр_россия.jpg"
     },
     {
       "name": "Минеола Китай",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/other/минеола_китай.jpg"
+      "image": "images/other/минеола_китай.jpg"
     },
     {
       "name": "Фенхель импортный",
       "price": 900.0,
       "unit": "кг",
-      "image": "/images/other/фенхель_импортный.jpg"
+      "image": "images/other/фенхель_импортный.jpg"
     },
     {
       "name": "Чернослив Россия",
       "price": 0.0,
       "unit": "кг",
-      "image": "/images/other/чернослив_россия.jpg"
+      "image": "images/other/чернослив_россия.jpg"
     }
   ]
 }
