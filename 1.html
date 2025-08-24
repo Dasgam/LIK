@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Лик - Оптовые продажи фруктов и овощей</title>
+  <meta name="description" content="Компания ЛИК — оптовая торговля свежими овощами, фруктами, ягодами и сухофруктами. 20 лет опыта и высокое качество продукции.">
+  <link rel="stylesheet" href="1.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="header-left">
+        <div class="logo">ЛИК</div>
+        <div class="header-title">
+          <h1>ЛИК &amp; ОВОЩИ ФРУКТЫ</h1>
+          <p class="lead">Сочные, свежие и выращенные с заботой — прямо с фермы на ваш стол.</p>
+        </div>
+      </div>
+      <nav class="header-nav" aria-label="Основная навигация">
+        <a href="#about">О нас</a>
+        <a href="#catalog">Каталог</a>
+        <a href="#contacts">Контакты</a>
+      </nav>
+    </header>
+
+    <section class="about" id="about">
+      <img src="images/farm-hero.jpg" alt="Ферма ЛИК">
+      <div class="text">
+        <h2>О нас</h2>
+        <p>Компания ЛИК — стабильный и надёжный партнёр на рынке оптовой торговли свежими овощами, ягодами, соленьями, фруктами и сухофруктами. За 20 лет работы мы выстроили эффективные логистические цепочки.</p>
+        <h2>Наши преимущества</h2>
+        <p><b>Опыт:</b> два десятилетия успешной работы и долгосрочные отношения с проверенными производителями.</p>
+        <p><b>Ассортимент:</b> большой выбор овощей, фруктов, ягод, солений и сухофруктов.</p>
+        <p><b>Качество:</b> строгий контроль приёмки и хранения, регулярная проверка свежести.</p>
+        <p><b>Логистика:</b> собственный и партнёрский транспорт для быстрой доставки.</p>
+        <p><b>Гибкость:</b> партии любого объёма, индивидуальные условия для клиентов.</p>
+        <p><b>Клиентоориентированность:</b> персональный менеджер, прозрачное ценообразование.</p>
+        <h2>Сертификаты и стандарты</h2>
+        <p>Соблюдаем нормы безопасности, работаем с сертифицированными поставщиками, предоставляем документы по запросу.</p>
+        <h2>Контакты</h2>
+        <p>Для сотрудничества свяжитесь с нами: +7 (925) 194-54-54 • ismail.guliev.17@bk.ru</p>
+      </div>
+    </section>
+
+    <!-- Поиск и кнопка корзины -->
+    <section style="margin: 20px 0;">
+      <input type="text" id="searchInput" placeholder="Поиск по каталогу..." style="padding:10px; width:60%; max-width:500px;">
+      <div id="cart" style="display:none; background:#fff; padding:16px; border-radius:8px; box-shadow:var(--shadow); margin-top:14px; max-width:600px;">
+        <ul id="cartList"></ul>
+        <button id="clearCart" style="padding:8px 12px; background:red; color:#fff; border:none; border-radius:6px; cursor:pointer;">Очистить корзину</button>
+      </div>
+    </section>
+
+<section class="filters" style="margin:20px 0;">
+  <label>
+    Категория:
+    <select id="categoryFilter">
+      <option value="all">Все</option>
+      <option value="fruits">Фрукты</option>
+      <option value="vegetables">Овощи</option>
+      <option value="berries">Ягоды</option>
+      <option value="greens">Зелень</option>
+      <option value="nuts">Орехи</option>
+      <option value="other">Прочее</option>
+    </select>
+  </label>
+  <label style="margin-left:20px;">
+    Цена от:
+    <input type="number" id="minPrice" style="width:80px;" placeholder="0">
+  </label>
+  <label style="margin-left:10px;">
+    до:
+    <input type="number" id="maxPrice" style="width:80px;" placeholder="9999">
+  </label>
+  <button id="applyFilter" style="margin-left:10px; padding:5px 10px;">Применить</button>
+</section>
+
+
+    <!-- Каталог -->
+    <section class="tables" id="catalog">
+      <div class="card">
+        <h3>Фрукты</h3>
+        <table id="fruits">
+          <thead><tr><th>Фото</th><th>Название</th><th>Цена</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="card">
+        <h3>Овощи</h3>
+        <table id="vegetables">
+          <thead><tr><th>Фото</th><th>Название</th><th>Цена</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="card">
+        <h3>Ягоды</h3>
+        <table id="berries">
+          <thead><tr><th>Фото</th><th>Название</th><th>Цена</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="card">
+        <h3>Зелень</h3>
+        <table id="greens">
+          <thead><tr><th>Фото</th><th>Название</th><th>Цена</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="card">
+        <h3>Орехи</h3>
+        <table id="nuts">
+          <thead><tr><th>Фото</th><th>Название</th><th>Цена</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="card">
+        <h3>Прочее</h3>
+        <table id="other">
+          <thead><tr><th>Фото</th><th>Название</th><th>Цена</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Контакты -->
+    <section class="contact-grid" id="contacts">
+      <div class="contact-item">
+        <div class="icon" aria-hidden="true">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+            <path d="M3 8.5v7A2.5 2.5 0 0 0 5.5 18h13A2.5 2.5 0 0 0 21 15.5v-7L12 12 3 8.5z" stroke="currentColor" stroke-width="1.2"/>
+            <path d="M21 7.5V6.5A2.5 2.5 0 0 0 18.5 4h-13A2.5 2.5 0 0 0 3 6.5v1" stroke="currentColor" stroke-width="1.2"/>
+          </svg>
+        </div>
+        <div class="contact-body">
+          <div class="contact-label">Email/Телефон</div>
+          <div class="contact-value"><a href="mailto:ismail.guliev.17@bk.ru">ismail.guliev.17@bk.ru</a> | <a href="tel:+79251945454">+7 (925) 194-54-54</a></div>
+        </div>
+      </div>
+
+      <div class="contact-item">
+        <div class="icon" aria-hidden="true">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" stroke="currentColor" stroke-width="1.2"/>
+            <circle cx="12" cy="9" r="2.2" fill="currentColor"/>
+          </svg>
+        </div>
+        <div class="contact-body">
+          <div class="contact-label">Адрес</div>
+          <div class="contact-value">Москва, ул. Фермерская, 12</div>
+        </div>
+      </div>
+
+      <div class="contact-item">
+        <div class="icon" aria-hidden="true">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+            <circle cx="12" cy="12" r="8" stroke="currentColor" stroke-width="1.2"/>
+            <path d="M12 8v5l3 2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="contact-body">
+          <div class="contact-label">Часы работы</div>
+          <div class="contact-value">Пн–Вс 09:00–18:00</div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div>Контакты: +7 (925) 194-54-54 • ismail.guliev.17@bk.ru</div>
+      <div style="margin-top:6px;">© 2025 ЛИК. Все права защищены.</div>
+    </footer>
+  </div>
+
+  <!-- Кнопка Наверх -->
+  <button id="scrollTopBtn" style="
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    padding: 12px 16px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    display: none;
+    z-index: 1000;
+  ">Наверх</button>
+
+  <!-- Плавающая панель с заявками -->
+  <div id="floatingCart" style="
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    max-width: 320px;
+    background: #fff;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    display: none;
+    z-index: 1000;
+  ">
+    <h4>Ваша заявка</h4>
+    <ul id="floatingCartList" style="margin-bottom:10px;"></ul>
+    <button id="sendOrder" style="
+      padding:8px 12px;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    ">Отправить заявку</button>
+  </div>
+
+  <!-- Скрипты -->
+  <script>
+  const cart = [];
+
+  // Загрузка товаров из JSON
+  async function loadProducts() {
+    try {
+      const response = await fetch("./products.json");
+      const data = await response.json();
+      for (const category in data) {
+        const tbody = document.querySelector(`#${category} tbody`);
+        if (!tbody) continue;
+        data[category].forEach(product => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td><img src="${product.image || 'images/no-photo.png'}" alt="${product.name}" class="product-image"></td>
+            <td><span class="name">${product.name}</span></td>
+            <td><span class="price">${product.price} ₽</span></td>`;
+          tbody.appendChild(tr);
+        });
+      }
+    } catch (e) {
+      console.error("Ошибка загрузки JSON:", e);
+    }
+  }
+  loadProducts();
+
+  // Поиск
+  document.getElementById('searchInput').addEventListener('input',(e)=>{
+    const search = e.target.value.toLowerCase();
+    document.querySelectorAll('tbody tr').forEach(row=>{
+      row.style.display = row.innerText.toLowerCase().includes(search)?'':'none';
+    });
+  });
+
+  // Кнопка Наверх
+  const scrollTopBtn = document.getElementById('scrollTopBtn');
+  window.addEventListener('scroll', ()=>{ scrollTopBtn.style.display = window.scrollY>200?'block':'none'; });
+  scrollTopBtn.addEventListener('click', ()=>{ window.scrollTo({top:0,behavior:'smooth'}); });
+
+
+document.getElementById('applyFilter').addEventListener('click', () => {
+  const selectedCategory = document.getElementById('categoryFilter').value;
+  const minPrice = parseFloat(document.getElementById('minPrice').value) || 0;
+  const maxPrice = parseFloat(document.getElementById('maxPrice').value) || Infinity;
+
+  document.querySelectorAll('.tables table').forEach(table => {
+    const isCurrentCategory = (selectedCategory === 'all' || table.id === selectedCategory);
+    table.style.display = isCurrentCategory ? 'table' : 'none';
+
+    if(isCurrentCategory) {
+      table.querySelectorAll('tbody tr').forEach(row => {
+        const priceText = row.querySelector('.price').innerText.replace(/\D/g,'');
+        const price = parseFloat(priceText);
+        row.style.display = (price >= minPrice && price <= maxPrice) ? '' : 'none';
+      });
+    }
+  });
+});
+  
+  </script>
+</body>
+</html>
