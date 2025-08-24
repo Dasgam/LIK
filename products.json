@@ -2,7 +2,7 @@
   "fruits": [
     {
       "name": "Абрикос белые",
-      "price": 166.0,
+      "price": 165.0,
       "unit": "кг",
       "image": "/Images/fruits/абрикос_белые.jpg"
     },
